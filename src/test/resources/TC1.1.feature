@@ -4,7 +4,7 @@ Feature: TC1.1
     * Generic: Open Page https://www.etsy.com/
     * Etsy Homepage: Click button Zaloguj się
     * Etsy Login Component: Click Register
-    * Etsy Login Component: Register with email: kvenhmrojtgbhbzkpf@wqcefp.com, First name: Test, Password: Test1234567, Newsletter: nie
+    * Etsy Login Component: Register with email: tsttestowa@gmail.com, First name: Test, Password: Test1234567, Newsletter: nie
     * Etsy Homepage: Verify correct login / registration
 
     
