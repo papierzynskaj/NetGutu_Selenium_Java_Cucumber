@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.util.concurrent.TimeUnit;
 
-public class Generic extends Utils{
+public class EtsyPage extends Utils{
 
     @I("^Generic: Open Page (.+)$")
     public void gotToHomepage(String url){
